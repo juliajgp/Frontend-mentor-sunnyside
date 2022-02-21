@@ -1,4 +1,4 @@
-# Frontend-mentor-sunnyside
+# Frontend Mentor | Sunnyside Agency
 
 This is a (desktop) challenge for Frontend Mentor
 https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef
